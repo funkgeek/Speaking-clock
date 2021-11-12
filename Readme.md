@@ -1,12 +1,6 @@
 # Running environment description
 
-There is not a contribution file as I did all the works.
-
----
-
-### License
-
-This program and the relevant files is provided under the Apache License 2.0
+Thia is not a contribution file as I did all the works.
 
 ---
 
@@ -36,7 +30,12 @@ This program and the relevant files is provided under the Apache License 2.0
 
 ---
 
+### License and Data
 
+This program and the relevant files is provided under the Apache License 2.0
+The data in this repository is protected by GDPR. For further contact, please use the issues board of this repo to ask for permission.
+Files in this github repository is part of the data backup plan.
 
+### Program Description
 
-
+This project is an educational exercise of me. The basic funtion of this program is to recognize your question about time, and generating the audio files which are concatenated from my recordings.
