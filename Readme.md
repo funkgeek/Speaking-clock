@@ -1,8 +1,5 @@
 # Running environment description
 
-Thia is not a contribution file as I did all the works.
-
----
 
 ### Required package
 
