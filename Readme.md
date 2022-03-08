@@ -30,7 +30,7 @@
 
 ### License and Data
 
-- This program and the relevant files is provided under the Apache License 2.0
+- This program and the relevant files is provided under the Creative Commons Zero v1.0 Universal
 - The data in this repository is protected by GDPR. For further contact, please use the issues board of this repo to ask for permission.
 - Files in this github repository(https://github.com/funkgeek/Speaking-clock) is part of my data backup plan.
 
